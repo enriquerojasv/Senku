@@ -57,7 +57,20 @@ public class MainActivity extends AppCompatActivity {
     private ImageView mBox64;
     private ImageView mBox65;
     private ImageView mBox66;
+
+    private boolean offLimits = true;
+    private boolean empty = false;
     private boolean selected = false;
+
+    int[][] layout1 = {
+            {0, 0, 1, 1, 1, 0, 0},
+            {0, 0, 1, 1, 1, 0, 0},
+            {1, 1, 1, 1, 1, 1, 1},
+            {1, 1, 1, 2, 1, 1, 1},
+            {1, 1, 1, 1, 1, 1, 1},
+            {0, 0, 1, 1, 1, 0, 0},
+            {0, 0, 1, 1, 1, 0, 0},
+    };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -114,5 +127,8 @@ public class MainActivity extends AppCompatActivity {
         mBox65 = (ImageView) findViewById(R.id.box_65);
         mBox66 = (ImageView) findViewById(R.id.box_66);
 
+
     }
+
+
 }

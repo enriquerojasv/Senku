@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/rvenr/AndroidStudioProjects/Senku/app/src/main/res/drawable/border.xml" value="0.489" />
+        <entry key="..\:/Users/rvenr/AndroidStudioProjects/Senku/app/src/main/res/drawable/border_corner.xml" value="0.489" />
+        <entry key="..\:/Users/rvenr/AndroidStudioProjects/Senku/app/src/main/res/drawable/empty.xml" value="0.489" />
+        <entry key="..\:/Users/rvenr/AndroidStudioProjects/Senku/app/src/main/res/drawable/fill.xml" value="0.489" />
+        <entry key="..\:/Users/rvenr/AndroidStudioProjects/Senku/app/src/main/res/drawable/off_limits.xml" value="0.489" />
         <entry key="..\:/Users/rvenr/AndroidStudioProjects/Senku/app/src/main/res/layout/activity_main.xml" value="0.4221014492753623" />
       </map>
     </option>

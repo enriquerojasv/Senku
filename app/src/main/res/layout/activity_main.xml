@@ -422,7 +422,6 @@
             android:padding="@dimen/box_padding"
             android:src="@drawable/off_limits" />
 
-
     </GridLayout>
 
 </RelativeLayout>
